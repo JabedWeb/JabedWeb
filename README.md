@@ -35,3 +35,11 @@
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jabed366)  
+
+<div align="center">
+            <a href="https://paypal.me/https://www.paypal.com/paypalme/Shadhinweb" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
+                    align="center"
+                />
+</a></div>
