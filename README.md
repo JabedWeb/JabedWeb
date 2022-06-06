@@ -59,19 +59,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jabed366)  
-
-<div align="center">
-            <a href="https://paypal.me/https://www.paypal.com/paypalme/Shadhinweb" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-</a></div>
-
-
-
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -84,3 +71,15 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </td></tr></table>  
 
 <br/>  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jabed366)  
+
+<div align="center">
+            <a href="https://paypal.me/https://www.paypal.com/paypalme/Shadhinweb" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
+                    align="center"
+                />
+</a></div>
+
+
