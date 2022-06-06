@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/jabed336"><img src="https://api.daily.dev/devcards/6187412e579740aa89307148ddb89eb1.png?r=nk9" width="400" alt="Jabed's Dev Card"/></a>
+
 
 <!--
 **jabed366/jabed366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
