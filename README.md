@@ -1,22 +1,19 @@
-## Hey 👋, I'm Rishav Anand!  
+## Hey 👋, I'm Jabed!  
   
 
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/jabed366" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
+<a href="https://twitter.com/Jabedhasan366" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
+<a href="https://linkedin.com/in/jabed-hasan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<a href="https://www.facebook.com/jabed366" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
+<a href="https://instagram.com/jabed_hasan6" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
@@ -35,16 +32,15 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+- 🔭 I’m currently working on [JavaScript Project](https://github.com/jabed366/JavaScript-Project)
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+- 🌱 I’m currently learning **MongoDB**
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- 👯 I’m looking to collaborate on [Github](https://github.com/jabed366)
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **jabedhasan366@gmail.com**  
 
 
 </td><td valign="top" width="50%">
