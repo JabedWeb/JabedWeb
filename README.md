@@ -1,6 +1,10 @@
 # Hi there 👋, My name is Jabed
 ## Full Stack Developer
 ![Full Stack Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/283152128_558735322486313_8358472814927497461_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEakRi-tAp-USurlZaIyyzaTt7MPQQZH8NO3sw9BBkfw3PXc8L_Ukpam4RdypGjFofK7_swqX36upvRcgaNJcGI&_nc_ohc=rOWVFtKnN4oAX-HJ56q&_nc_ht=scontent.fdac24-1.fna&oh=00_AT_KzGo_5GSwsi7YtitElapq4VOwr1jwlAwHmdVBR58O3Q&oe=62A418EB)
+
+<div align="center">
+<img src="https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/283152128_558735322486313_8358472814927497461_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEakRi-tAp-USurlZaIyyzaTt7MPQQZH8NO3sw9BBkfw3PXc8L_Ukpam4RdypGjFofK7_swqX36upvRcgaNJcGI&_nc_ohc=rOWVFtKnN4oAX9_DMyH&_nc_ht=scontent.fdac24-1.fna&oh=00_AT8mgHVpivp58smnsIt_CIC8Ys5KUqUtTuBwDKdb8JCmGQ&oe=62A418EB" align="center" style="width: 100%" />
+</div>  
 - 🔭 I’m currently working on [JavaScript Project](https://github.com/jabed366/JavaScript-Project)
 
 - 🌱 I’m currently learning **MongoDB**
