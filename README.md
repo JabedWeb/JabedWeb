@@ -11,6 +11,11 @@
 
 - 📫 How to reach me **jabedhasan366@gmail.com**
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed366&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+
+<br/>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/jabed366" target="_blank">
