@@ -23,4 +23,6 @@
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jabed366)  
 
+[![Jabed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jabedweb)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Profile views](https://gpvc.arturio.dev/jabed366)  
