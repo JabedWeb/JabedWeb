@@ -78,7 +78,7 @@ I specialize in building vigorous backends that do all the overwhelming lifting 
 
 <div align="center">
   <p> <img src="https://komarev.com/ghpvc/?username=jabed366&label=Profile%20views&color=0e75b6&style=flat" alt="jabed366" /> </p>
-            <a href="https://paypal.me/https://www.paypal.com/paypalme/Shadhinweb" target="_blank" style="display: inline-block;">
+            <a href="https://www.paypal.com/paypalme/Shadhinweb" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
                     align="center"
