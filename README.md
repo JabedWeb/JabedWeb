@@ -74,9 +74,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jabed366)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jabed366&label=Profile%20views&color=0e75b6&style=flat" alt="jabed366" /> </p>
+
 
 <div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabed366&label=Profile%20views&color=0e75b6&style=flat" alt="jabed366" /> </p>
             <a href="https://paypal.me/https://www.paypal.com/paypalme/Shadhinweb" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
