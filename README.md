@@ -21,9 +21,9 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack designer who has turned a long time of outsourcing into a full-time career. Being a full-stack permits me to not as it were create client-facing websites but moreover create them with cutting edge backend support.
+I’m a full-stack engineer who has turned a long time of outsourcing into a full-time career. Being a full-stack permits me to not as it were create client-facing websites but too create it with cutting edge backend support.
 
-I specialize in building strong backends that do all the overwhelming lifting for your site. I adore planning frameworks that are light however capable, conveyed however synchronized, and lovely however viable.
+I specialize in building vigorous backends that do all the overwhelming lifting for your site. I cherish planning frameworks that are light however effective, conveyed however synchronized, and lovely however compelling.
   
 
 <br/>  
