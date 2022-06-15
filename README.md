@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Jabed!  
   
 
-<a href="https://github.com/jabed366" target="_blank">
+<a href="https://github.com/JabedWeb" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/jabed_web" target="_blank">
@@ -32,11 +32,11 @@ I specialize in building vigorous backends that do all the overwhelming lifting 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [JavaScript Project](https://github.com/jabed366/JavaScript-Project)
+- 🔭 I’m currently working on [JavaScript Project](https://github.com/JabedWeb/JavaScript-Project)
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👯 I’m looking to collaborate on [Github](https://github.com/jabed366)
+- 👯 I’m looking to collaborate on [Github](https://github.com/JabedWeb)
 
 - 💬 Ask me about **Web Development**
 
@@ -62,22 +62,22 @@ I specialize in building vigorous backends that do all the overwhelming lifting 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jabed366&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=JabedWeb&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed366&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JabedWeb&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jabed366)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JabedWeb)  
 
 
 
 <div align="center">
-  <p> <img src="https://komarev.com/ghpvc/?username=jabed366&label=Profile%20views&color=0e75b6&style=flat" alt="jabed366" /> </p>
+  <p> <img src="https://komarev.com/ghpvc/?username=JabedWeb&label=Profile%20views&color=0e75b6&style=flat" alt="JabedWeb" /> </p>
             <a href="https://www.paypal.com/paypalme/Shadhinweb" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
