@@ -30,7 +30,7 @@ I specialize in building vigorous backends that do all the overwhelming lifting 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [JavaScript Project](https://github.com/JabedWeb/JavaScript-Project)
 
@@ -41,13 +41,6 @@ I specialize in building vigorous backends that do all the overwhelming lifting 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **jabedhasan366@gmail.com**  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/283152128_558735322486313_8358472814927497461_n.jpg" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
