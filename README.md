@@ -51,13 +51,11 @@ I specialize in building vigorous backends that do all the overwhelming lifting 
 <br/>  
 
 
-<div align="center">
+<!-- <div align="center">
   <p> <img src="https://komarev.com/ghpvc/?username=JabedWeb&label=Profile%20views&color=0e75b6&style=flat" alt="JabedWeb" /> </p>
             <a href="https://www.paypal.com/paypalme/Shadhinweb" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
                     align="center"
                 />
-</a></div>
-
-
+</a></div> -->
