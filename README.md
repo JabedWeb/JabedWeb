@@ -49,8 +49,9 @@ I specialize in building vigorous backends that do all the overwhelming lifting 
 
 <br/>  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JabedWeb)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JabedWeb&bg_color=000000&color=ededed&line=d75bcf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br/>  
 
 
 <div align="center">
