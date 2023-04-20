@@ -29,24 +29,6 @@ I specialize in building vigorous backends that do all the overwhelming lifting 
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-- 🔭 I’m currently working on [JavaScript Project](https://github.com/JabedWeb/JavaScript-Project)
-
-- 🌱 I’m currently learning **MongoDB**
-
-- 👯 I’m looking to collaborate on [Github](https://github.com/JabedWeb)
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **jabedhasan366@gmail.com**  
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 # 💻Languages and Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
