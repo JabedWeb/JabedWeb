@@ -47,7 +47,7 @@ I specialize in building vigorous backends that do all the overwhelming lifting 
 
 <br/>  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JabedWeb&bg_color=000000&theme=high-contrast&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JabedWeb&bg_color=000000&theme=high-contrast&color=ffffff&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- <div align="center">
