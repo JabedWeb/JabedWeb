@@ -35,6 +35,11 @@ I specialize in building vigorous backends that do all the overwhelming lifting 
 
 <br/>  
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JabedWeb&theme=gotham&hide=shaderlab,hlsl&include_all_commits=true&count_private=true&langs_count=6) <br />
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=JabedWeb&theme=gotham&layout=compact&hide=other&langs_count=6&all_time&custom_title=Wakatime%20Stats%20(Top%206%20Langs))](https://github.com/JabedWeb) <br />
+
+Please note that by far not all of my activity is considered by Wakatime & GitHub. <br /> <br />
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JabedWeb&bg_color=000000&theme=dracula&color=ffffff&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/JabedWeb/JabedWeb)
 
 
@@ -48,7 +53,4 @@ I specialize in building vigorous backends that do all the overwhelming lifting 
 </a></div> -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JabedWeb&theme=gotham&hide=shaderlab,hlsl&include_all_commits=true&count_private=true&langs_count=6) <br />
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=JabedWeb&theme=gotham&layout=compact&hide=other&langs_count=6&all_time&custom_title=Wakatime%20Stats%20(Top%206%20Langs))](https://github.com/JabedWeb) <br />
 
-Please note that by far not all of my activity is considered by Wakatime & GitHub. <br /> <br />
